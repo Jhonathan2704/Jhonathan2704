@@ -10,7 +10,7 @@ Analista de dados em transição de carreira, MBA em em Business Intelligence e 
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonathan2704&repo=jhonathan2704.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jhonathan2704&repo=EBAC.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
